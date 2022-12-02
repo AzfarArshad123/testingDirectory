@@ -1,0 +1,84 @@
+.activeAssets {
+  color: #1d70be;
+  align-content: center;
+  text-align: center;
+  .detailIcon {
+    height: 24px;
+    width: 24px;
+    cursor: pointer;
+  }
+  .fade {
+    height: 24px;
+    width: 24px;
+    cursor: pointer;
+  }
+  .grid {
+    align-content: center;
+    text-align: center;
+  }
+  .overviewIcon {
+    color: #1d70be !important;
+    height: 24px;
+    width: 24px;
+    cursor: pointer;
+  }
+  .fontset {
+    color: #7d7d7d;
+  }
+  .font12 {
+    color: #7d7d7d;
+  }
+  .gMedium {
+    font-size: 10px;
+    color: #216fb4;
+    letter-spacing: -0.08px;
+    margin-top: -4px;
+    padding-left: 2px;
+  }
+
+  .typo {
+    font-size: 10px;
+    color: #216fb4 !important;
+    letter-spacing: -0.08px;
+
+    margin-top: -4px;
+  }
+}
+.footer {
+  .All-assets-are-uniq {
+    width: 670px;
+    height: 16px;
+    margin: 23px 180px 22px 1px;
+    padding: 4px 268px 4px 0;
+    font-family: Gotham !important;
+    font-size: 14px c;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.14;
+    letter-spacing: normal;
+    color: #070070;
+  }
+}
+.overViewtext {
+  font-size: 10px !important;
+  color: #216fb4 !important;
+  letter-spacing: -0.08px !important;
+  margin-top: -4px !important;
+}
+.detailViewtext {
+  font-size: 10px !important;
+  color: #216fb4 !important;
+  letter-spacing: -0.08px !important;
+  margin-top: -4px !important;
+  padding-left: 2px !important;
+}
+.overviewButton {
+  color: #1d70be !important;
+  height: 24px !important;
+  width: 24px !important;
+  cursor: pointer !important;
+}
+.css-i4bv87-MuiSvgIcon-root {
+  color: #216fb4 !important;
+}

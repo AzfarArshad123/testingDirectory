@@ -1,0 +1,238 @@
+.gBlack {
+  letter-spacing: -0.4px;
+  line-height: 36px;
+}
+
+.grey {
+  letter-spacing: -0.4px;
+  line-height: 36px;
+}
+
+.font30 {
+  letter-spacing: -0.4px;
+  line-height: 36px;
+}
+
+.gBold {
+  margin-top: 40px;
+  font-size: 18px;
+  letter-spacing: -0.1px;
+  line-height: 24px;
+  color: #262262;
+  padding-top: 1px;
+}
+
+.purple {
+  margin-top: 40px;
+  font-size: 18px;
+  letter-spacing: -0.1px;
+  line-height: 24px;
+  color: #262262 !important;
+}
+
+.grey2 {
+  margin-top: 20px;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  line-height: 22px;
+}
+
+.boxmargin {
+  margin-top: 20px;
+  border-bottom: 1;
+  border-color: #5eaee0;
+}
+
+.fontset2 {
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  line-height: 22px;
+}
+
+.grey3 {
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  line-height: 22px;
+}
+
+.imgstyle {
+  width: 100px;
+  height: 100px;
+}
+
+.gBold1 {
+  font-size: 18px;
+  letter-spacing: -0.1px;
+  line-height: 24px;
+}
+
+.purple1 {
+  font-size: 18px;
+  letter-spacing: -0.1px;
+  line-height: 24px;
+}
+
+.fontset3 {
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  line-height: 22px;
+}
+
+.grey4 {
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  line-height: 22px;
+}
+
+.fontset4 {
+  text-decoration: underline;
+  color: #216fb4;
+  cursor: pointer;
+}
+
+.griddash {
+  z-index: -1;
+  border-right: 1px dashed;
+  border-color: #5eaee0;
+  height: 76px;
+}
+
+.img .imgstyle1 {
+  width: 100px;
+  height: 100px;
+}
+
+.video .imgstyle2 {
+  width: 300px;
+  height: 168px;
+  cursor: pointer;
+  margin-left: 16px;
+}
+
+.img .imgstyle2 {
+  width: 100px;
+  height: 100px;
+}
+
+.req {
+  font-family: GothamBook !important;
+  font-size: 14px !important;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.57;
+  letter-spacing: 0.1px;
+  color: #4a4a4a !important;
+  padding-top: 24px;
+}
+
+.reqs {
+  font-family: GothamBook !important;
+  font-size: 14px !important;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.57;
+  letter-spacing: 0.1px;
+  color: #4a4a4a !important;
+}
+
+.Line-CopyR {
+  margin-top: -41px;
+  border-bottom: 1px solid;
+  border-color: #5eaee0;
+}
+
+.Read-the-Mock-Up-M {
+  margin: 10px 0 12px 40px;
+  font-family: GothamBold !important;
+  font-size: 18px !important;
+  font-weight: bold !important;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: -0.1px;
+  color: #262262;
+}
+
+.Watch-the-Video-Tuto {
+  margin: 10px 20px 12px 40px;
+  font-family: GothamBold !important;
+  font-size: 18px !important;
+  font-weight: bold !important;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: -0.1px;
+  color: #262262;
+}
+
+.Asset-Development-Ch {
+  margin: 10px 0 12px 40px;
+  font-family: GothamBold !important;
+  font-size: 18px !important;
+  font-weight: bold !important;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: -0.1px;
+  color: #262262;
+}
+
+.We-ask-that-you-log {
+  margin: 12px 0 10px 40px;
+  font-family: GothamBook !important;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.57;
+  letter-spacing: 0.1px;
+  color: #4a4a4a;
+}
+
+.We-ask-that-you-log .text-style-1 {
+  text-decoration: underline;
+  color: #216fb4;
+}
+
+.After-reading-the-Mo {
+  margin: 12px 20px 10px 40px;
+  font-family: GothamBook !important;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.57;
+  letter-spacing: 0.1px;
+  color: #4a4a4a;
+}
+
+.After-reading-the-Mo .text-style-1 {
+  text-decoration: underline;
+  color: #216fb4;
+}
+
+.To-ensure-accurate {
+  margin: 12px 0 10px 40px;
+  font-family: GothamBook !important;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.57;
+  letter-spacing: 0.1px;
+  color: #4a4a4a;
+}
+
+.To-ensure-accurate .text-style-1 {
+  text-decoration: underline;
+  color: #216fb4;
+}
+
+.Line-CopyS {
+  margin: 0 0 12px;
+  border: solid 0.5px #a4a4a4;
+  margin-left: 2px;
+  margin-top: 70px;
+}

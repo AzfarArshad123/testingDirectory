@@ -1,0 +1,41 @@
+@media (min-width: 1309px) and (max-width: 1339px) {
+}
+@media (min-width: 1439px) and (max-width: 1580px) {
+  .mycircle {
+    margin-left: -0.6px !important;
+  }
+}
+@media (min-width: 320px) and (max-width: 625px) {
+  .assetsHeading {
+    font-size: 25px !important;
+  }
+  .gMedium {
+    font-size: 10px;
+  }
+
+  // .MuiButtonBase-root.MuiTab-root {
+  //     padding: 0px 0px !important;
+  //     margin-right: 13px !important;
+  //     margin-left: 0px !important;
+  //     font-family: GothamMedium !important;
+  //     font-size: 9px !important;
+  //     color: #4a4a4a !important;
+  //     min-height: 47px !important;
+  // }
+
+  // .css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected {
+  //     max-height: 50px !important;
+  //     font-family: GothamBlack !important;
+
+  // }
+
+  #commsButton .MuiButton-root {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+
+  .css-jpln7h-MuiTabs-scroller {
+    margin-top: 5px !important;
+    height: 34px !important;
+  }
+}

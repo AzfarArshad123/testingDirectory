@@ -1,0 +1,174 @@
+.cOrange {
+  width: 10px !important;
+  height: 10px !important;
+  margin: 3px 4px 3px 20px !important;
+  color: #ffdd7f;
+  /*   
+  width: 13px;
+  height: 13px;
+  padding-top: 3.5px;
+  margin-right: 4px; */
+}
+
+.cIcon {
+  width: 10px !important;
+  height: 10px !important;
+  margin: 3px 4px 3px 20px !important;
+  color: #ffdc7b;
+}
+
+.cIcon1 {
+  width: 10px !important;
+  height: 10px !important;
+  margin: 3px 4px 3px 20px !important;
+  color: #c9db85;
+}
+
+.cIcon2 {
+  width: 10px !important;
+  height: 10px !important;
+  margin: 3px 4px 3px 20px !important;
+  color: #7ac79d;
+}
+
+.gridcol {
+  border-bottom: 1px solid;
+  border-color: #cecece;
+}
+
+.gBold {
+  padding-right: 110px;
+}
+
+.font14 {
+  padding-right: 110px;
+}
+
+.grey {
+  padding-right: 110px;
+  cursor: pointer;
+}
+
+.fontset {
+  cursor: pointer;
+}
+
+.font12 {
+  cursor: pointer;
+}
+
+.selectButton {
+  display: flex;
+}
+
+.bBlue {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  text-align: center;
+  color: white;
+}
+
+.fontset1 {
+  color: #f5ffff;
+  margin-top: 6px;
+  margin-left: 1.8px;
+}
+
+.font1 {
+  color: #f5ffff;
+  margin-top: 6px;
+  margin-left: 1.8px;
+}
+
+.filterImage {
+  margin-top: 12px;
+  padding-right: 20px;
+}
+
+.gridmargin {
+  margin-top: 12px;
+  border-left: 1px solid;
+  height: 16px;
+  border-color: #cecece;
+  padding-right: 19px;
+}
+
+.expandmicon {
+  color: #1e70b9;
+  margin-top: -2.5px;
+  display: block;
+  padding-right: 7px;
+}
+
+.dialogs {
+  border-radius: 50px;
+}
+
+.gridbottom {
+  border-bottom: 1;
+  border-color: #4a4a4a;
+}
+
+.griddivider {
+  border-bottom: 1;
+  border-color: divider;
+}
+
+.csharpIc {
+  width: 16px;
+  height: 16px;
+  color: #216fb4;
+}
+
+.searchHeight {
+  height: 16px;
+  width: 16px;
+}
+
+.buttoncol {
+  background-color: #216fb4;
+  text-transform: none;
+  border-radius: 4px;
+}
+
+.rectangleCopy {
+  width: 580px;
+}
+
+.lightGreenBackground {
+  width: 580px;
+}
+
+.gridheight {
+  border-right: 1px solid;
+  border-color: #a4a4a4;
+  height: 4px;
+}
+
+.gridwidth {
+  border-top: 1;
+  border-color: #a4a4a4;
+  width: 100%;
+}
+
+.popover {
+  background-color: transparent !important;
+  box-shadow: 0px 0px !important;
+}
+
+.buttonclose {
+  z-index: 1;
+  margin-top: -53px;
+  margin-left: -4.4px;
+  height: 20px;
+}
+
+.buttonclose:hover {
+  background: transparent;
+}
+
+.expandicon {
+  color: #1e70b9;
+  margin-top: -1px;
+}

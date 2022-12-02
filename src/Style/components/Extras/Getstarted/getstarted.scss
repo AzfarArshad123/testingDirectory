@@ -1,0 +1,112 @@
+@import "../../components.scss";
+.assetsHeading {
+  line-height: 36px;
+  letter-spacing: -0.4px;
+}
+
+.gBlack {
+  line-height: 36px;
+  letter-spacing: -0.4px;
+  font-family: GothamBlack !important;
+  margin-left: 70px;
+}
+
+.grey1 {
+  line-height: 36px;
+  letter-spacing: -0.4px;
+}
+.gBold {
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: -0.1px;
+}
+.purple {
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: -0.1px;
+}
+.getstartedContainer {
+  .fontset1 {
+    width: 448px;
+    font-family: GothamBook !important;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.57;
+    letter-spacing: 0.1px;
+    color: #4a4a4a;
+    text-decoration: none;
+  }
+}
+
+.font14 {
+  line-height: 22px;
+  letter-spacing: -0.1px;
+}
+.grey1 {
+  line-height: 22px;
+  letter-spacing: -0.1px;
+}
+.gbItalic {
+  line-height: 22px;
+  letter-spacing: -0.1px;
+}
+.gridcenter {
+  align-content: center;
+}
+.tvideo {
+  max-width: 640px;
+  max-height: 360px;
+  border-radius: 0;
+  box-shadow: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+.boxcolor {
+  width: 100%;
+  background-color: #edf7ff;
+}
+.gbLItalic {
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: -0.1px;
+  display: inline;
+}
+.purple1 {
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: -0.1px;
+  display: inline;
+}
+.gbItalic1 {
+  display: inline;
+}
+.grey2 {
+  display: inline;
+}
+.font141 {
+  display: inline;
+}
+.cardheight {
+  max-width: 540px;
+  max-height: 320px;
+  border-radius: 0;
+  box-shadow: 0;
+  background-color: transparent;
+}
+.cardheight2 {
+  max-width: 460px;
+  max-height: 280px;
+  border-radius: 0;
+  box-shadow: 0;
+  background-color: transparent;
+}
+.Line-Copy {
+  width: 1075px;
+  height: 0.1px;
+  margin: 0 0 12px;
+  border: solid 0.5px #a4a4a4;
+  margin-left: 221px;
+  margin-top: 70px;
+}

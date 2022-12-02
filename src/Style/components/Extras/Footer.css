@@ -1,0 +1,35 @@
+.FooterCenter {
+  justify-content: center;
+}
+
+.All-of-Us-and-the-Al {
+  width: 674px;
+  height: 48px;
+  margin: 10px 28px 0 149px;
+  font-family: Gotham;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: center;
+  color: #4a4a4a;
+}
+
+.All-of-Us-and-the-Al .text-style-1 {
+  font-style: italic;
+}
+
+.All-of-Us-and-the-Al .text-style-2 {
+  font-style: italic;
+}
+
+.All-of-Us-and-the-Al .text-style-3 {
+  margin-left: -5px;
+  color: #216fb4;
+}
+
+.All-of-Us-and-the-Al .text-style-4 {
+  color: #216fb4;
+}

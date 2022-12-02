@@ -1,0 +1,45 @@
+.FooterCenterR {
+  margin-left: 4px;
+  white-space: nowrap;
+}
+
+.FooterCenterR .All-of-Us-is-a-regis {
+  width: 586px;
+  height: 16px;
+  margin: 12px 384px 4px 0;
+  font-family: GothamBook !important;
+  font-size: 13px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.23;
+  letter-spacing: normal;
+  color: #4a4a4a;
+}
+
+.FooterCenterR .All-of-Us-is-a-regis .text-style-1 {
+  font-style: italic;
+}
+
+.FooterCenterR .apsupportallofusco {
+  width: 472px;
+  height: 16px;
+  margin: 4px 498px 0 0;
+  font-family: GothamBook !important;
+  font-size: 13px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.23;
+  letter-spacing: normal;
+  color: #216fb4;
+}
+
+.FooterCenterR .apsupportallofusco .text-style-1 {
+  font-weight: bold;
+  color: #4a4a4a;
+}
+
+.FooterCenterR .apsupportallofusco .text-style-2 {
+  color: #4a4a4a;
+}

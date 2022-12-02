@@ -1,0 +1,23 @@
+.home {
+  min-height: calc(100vh - 291px);
+
+  h3 {
+    font-weight: 600;
+    color: #353535;
+
+    @media (min-width: 1280px) {
+      font-size: 36px;
+    }
+
+    span {
+      color: #7ac79b;
+    }
+  }
+}
+
+.search__divider {
+  hr {
+    border-style: solid;
+    border-color: #8c8c8c;
+  }
+}
